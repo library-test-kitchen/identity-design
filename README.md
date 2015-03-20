@@ -4,3 +4,4 @@ Library Identity Design
  for their new teen space QUARANTEEN.
 </p>
 <p>Designed by Gabrielle Piazza Patawaran.</p>
+![identity profile](./posters/Identity%20Profile.jpg)
